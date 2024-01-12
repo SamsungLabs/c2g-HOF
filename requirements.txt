@@ -1,0 +1,6 @@
+numpy
+torch
+torchvision
+matplotlib
+visdom
+h5py

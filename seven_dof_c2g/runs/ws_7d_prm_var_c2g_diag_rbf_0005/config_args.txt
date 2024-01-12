@@ -1,0 +1,18 @@
+{
+  "env_name": "ws_7d_prm_var_c2g_diag_rbf_0005",
+  "epochs": 4000,
+  "device": "cuda:0",
+  "visdom_port": 8008,
+  "pt_env_name": null,
+  "test": false,
+  "keep_training": false,
+  "cnn_model_type": "pointnet",
+  "conv_output_dim": 256,
+  "sample_dim": 7,
+  "ws_sample_dim": 3,
+  "fc_output_dim": 1,
+  "width": 64,
+  "lr": 3e-05,
+  "rbf": 256,
+  "rbf_type": "diagonal"
+}
